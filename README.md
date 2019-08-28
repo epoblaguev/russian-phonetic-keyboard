@@ -1,2 +1,2 @@
-# Russian-Phonetic-Keyboard
+# Russian Phonetic Keyboard
 A phonetic Russian keyboard for Windows
