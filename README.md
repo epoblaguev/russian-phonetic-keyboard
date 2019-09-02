@@ -7,7 +7,7 @@ This project takes the phonetic Russian keyboard layouts from Ubuntu and OSX, an
 ## Why?
 A phonetic Russian keyboard is useful for people for people who are new to typing in Russian, don't have a keyboard with Russian characters on it, or (like myself) never bothered to learn the proper Russian keyboard layout.
 
-The phonetic Russian keyboard in Windows 10, called **Russian Mnemonic** is pretty terrible. Instead of mapping each key to one letter, it has you type combination of keys to produce one Russian letter. For example **ё** is **y-o**, **я** is **y-a**, but **ы** is y followed by anything other than **o** or **a**. As you can imagine, typing **ыo** is... inconvenient. The same goes for several other letters.
+The phonetic Russian keyboard in Windows 10, called **Russian Mnemonic** is pretty terrible. Instead of mapping each key to one letter, it has you type combination of keys to produce one Russian letter. For example **ё** is **y-o**, **я** is **y-a**, but **ы** is **y** followed by anything other than **o** or **a**. As you can imagine, typing **ыo** is... inconvenient. The same goes for several other letters.
 
 The phonetic Russian keyboards in Ubuntu and OSX are much more reasonable in that they map each letter to one keyboard key.
 
