@@ -1,5 +1,5 @@
 # Phonetic Russian Keyboard for Windows
-A phonetic Russian keyboard for Windows that doesn't suck
+Phonetic Russian keyboards for Windows that don't suck
 
 ## What?
 This project takes the phonetic Russian keyboard layouts from Ubuntu and OSX, and makes them available on Windows. They have been tested on Windows 10, but should presumably work on Windows 7 as well.
