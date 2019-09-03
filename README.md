@@ -18,7 +18,7 @@ After installing the keyboard, reboot your computer and it should appear in the 
 ## What are the layouts?
 All layouts have four states - regular, holding **Shift**, holding **Ctrl+Alt**, and holding **Ctrl+Alt+Shift**. 
 
-Holding **Ctrl+Alt** allows you to use characters from the English layout that were replaced in the Russian layout. For example, in the OSX keyboard you can hold **Ctrl+Alt** to type **-** and **=** instead of **ь** and **ъ**. In the same vein, holding **Ctrl+Alt+Shift** allows you to type **_** and **+**.
+Holding **Ctrl+Alt** allows you to use characters from the English layout that were replaced in the Russian layout. For example, in the OSX keyboard you can hold **Ctrl+Alt** to type **-** and **=** instead of **ь** and **ъ**. In the same vein, holding **Ctrl+Alt+Shift** allows you to type **\_** and **+**.
 
 Instead of holding **Ctrl+Alt**, you can also get the same effect by holding the **Right Alt** key.
 
