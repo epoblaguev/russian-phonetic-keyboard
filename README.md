@@ -1,3 +1,5 @@
+![GitHub All Releases](https://img.shields.io/github/downloads/epoblaguev/russian-phonetic-keyboard/total)
+
 # Phonetic Russian Keyboards for Windows
 
 ## What?
